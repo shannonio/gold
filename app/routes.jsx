@@ -6,7 +6,6 @@ import Vote from 'containers/Vote';
 import About from 'containers/About';
 import Login from 'containers/Login';
 import Dashboard from 'containers/Dashboard';
-import Clock from 'containers/Clock';
 
 /*
  * @param {Redux Store}
